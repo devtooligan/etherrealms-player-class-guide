@@ -54,3 +54,9 @@
 
 *Little is known about these necromancers who are rumored to turn mempools of water into gold. Their skill outmatched only by their secrecy.*
 
+## Berserker-Huffoor
+
+![](assets/berserker.jpeg)
+
+*Their magic is raw and untamed, based on the arcane language of Huff and drawing power from the very chaos of the Etherrealms. Some say they are mad; others claim they possess a clarity most can never attain. One thing is certain, when a Huffoor enters the fray, they plunge headfirst into the heart of chaos, wielding low-level incantations with fierce abandon.*
+
