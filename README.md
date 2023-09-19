@@ -29,6 +29,12 @@
 
 ![](assets/berserker.jpeg)
 
+## Druid-ZK Engineer
+
+Guardians of the veiled mysteries of the very foundation of the Etherrealms, these druids channel the ancient energies of zero knowledge. They weave obfuscating incantations, ensuring secrets remain untouched and truths are discerned without revelation. While many wander the digital forests solo, the whispers of their craft echo, promising untold power to those who seek their expertise.
+
+![](assets/zkengineer.png)
+
 ## Warrior-Auditor
 
 #### Knight of the Grand Audit House
