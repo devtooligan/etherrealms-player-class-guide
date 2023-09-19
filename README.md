@@ -23,6 +23,12 @@
 
 ![](assets/alchemist.jpeg)
 
+## Artificer-Optimizoor
+
+*Virtuosos of magical optimization, these maestros can reduce a spell's mana consumption to the point where even a novice could cast it effortlessly. Their knowledge of ancient opcodes, bit summoning techniques, and the hidden mysteries of the Etherrealm enables them to simplify even the most arcane of incantations. Most operate in solitude, some go insane, but if a mana mechanic joins your ranks, your party's destined to be based.*
+
+![](assets/optimizoor.png)
+
 ## Berserker-Huffoor
 
 *Their magic is raw and untamed, based on the arcane language of Huff and drawing power from the very chaos of the Etherrealms. Some say they are mad; others claim they possess a clarity most can never attain. One thing is certain, when a Huffoor enters the fray, they plunge headfirst into the heart of chaos, wielding low-level incantations with fierce abandon.*
