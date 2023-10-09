@@ -72,3 +72,10 @@ Guardians of the veiled mysteries of the very foundation of the Etherrealms, the
 *Revered for their deep wisdom, these benevolent beings harbor undying passion for the theoretical underpinnings of the Etherrealms. With a heart to uplift and enlighten, they guide fledgling mages and warriors alike, illuminating the path with knowledge.*
 
 ![](assets/palladin.jpeg)
+
+## Shadowmancer-Black Hat
+
+*Cloaked in the dark veils of the Etherrealms, Shadowmancers operate in the blurred lines between legality and criminality. They are the masters of covert operations, breaching impenetrable fortresses, eluding capture, and disrupting the arcane infrastructures. Robinhood? Not so; the commoners are the ones who suffer the most at their hand. However twisted, they see themselves as beyond the conventional dichotomies of good and evil. When successful, the rewards are endless; but at what cost? Their souls are forever as black as the night.*
+
+![](assets/shadowmancer.png)
+
