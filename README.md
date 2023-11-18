@@ -72,3 +72,9 @@ Guardians of the veiled mysteries of the very foundation of the Etherrealms, the
 *Revered for their deep wisdom, these benevolent beings harbor undying passion for the theoretical underpinnings of the Etherrealms. With a heart to uplift and enlighten, they guide fledgling mages and warriors alike, illuminating the path with knowledge.*
 
 ![](assets/palladin.jpeg)
+
+## Demigod-Cryptographer
+
+*Architects of the Etherrealms, these beings weave the very fabric of cryptographic magic. Their knowledge spans the vast cosmos, shaping the laws of mystery and eternity itself. Few mortals can fathom the depth of their secrets, but those who do unlock powers and knowledge beyond imagination*
+
+![](assets/demigod.png)
